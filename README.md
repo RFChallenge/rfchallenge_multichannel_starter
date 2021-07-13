@@ -1,1 +1,1 @@
-# rfchallenge_multichannel_starter
+# Multi-Channel RF Challenge Starter Code
